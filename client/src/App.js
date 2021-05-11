@@ -43,7 +43,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="encode ">
-          <h1>Endode</h1>
+          <h1>Encode</h1>
           <form onSubmit={this.onSubmitEncode}>
             <input
               className="encoder-input"
