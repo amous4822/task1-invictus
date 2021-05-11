@@ -2,7 +2,7 @@
 
 This website is created as a part of assignment which involved designing an algorithm which shortens a string into a shorter string. It is given that input strings are alphabets only and provided in small case only. The string should get shortened to smaller string and the output can be alphanumeric with no special characters. 
 
-> **Note:** The algorithm runs best for strings greater than 6 below than 6 the length of original string and encoded string are the same.
+> **Note:** The algorithm runs best for strings which have length greater than 6. Strings with character less than or equal to 6 have same length as that of the original string.
 
 # The Algorithm
 
