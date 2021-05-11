@@ -61,12 +61,12 @@ P is a single character string. Single characters are printed as it is.
 
 ![Test 1](https://github.com/amous4822/task1-invictus/blob/master/readme-pics/1.jpeg)
 ### Test case 2
-The algorithm output encoded but strings with same length when the original string is less than or equal to 6.
+The output is encoded but the string length is same as the original string because the length is equal to 6.
 
 ![Test 2](https://github.com/amous4822/task1-invictus/blob/master/readme-pics/2.jpeg)
 
 ### Test case 3
-"randomworld" is entered as a string and the encoded string is one character shorter than the original string.
+"randomworld" is entered as the original string. The encoded string is one character short than the original string.
 
 ![Test 3](https://github.com/amous4822/task1-invictus/blob/master/readme-pics/3.jpeg)
 
